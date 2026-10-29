@@ -1,6 +1,6 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
-import Categories from "../components/Categories";
+import Categories from "../components/categories.jsx";
 import { IoSearchSharp } from "react-icons/io5";
 import { MdFastfood, MdShoppingBag } from "react-icons/md";
 import SideBar from "../components/sideBar";
